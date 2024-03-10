@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class IEEG{
+class IEGEG{
 	private : string nombres,apellidos,direccion;
 	
 	void crear();
