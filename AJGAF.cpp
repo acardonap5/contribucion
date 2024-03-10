@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class AACCP{
+class AJGAF{
 	private : string nombres,apellidos,direccion;
 	void crear();
 	void leer();
