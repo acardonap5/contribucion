@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class BRGQ{
+class IEEG{
 	private : string nombres,apellidos,direccion;
 	
 	void crear();
